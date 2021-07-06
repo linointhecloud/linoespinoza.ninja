@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://linoespinoza.ninja',
   pathPrefix: '/',
   title: 'Blog by Lino Espinoza',
   subtitle: 'Blog made with love for sharing my journey in cloud development and javascript / ruby programming',
@@ -30,14 +30,14 @@ module.exports = {
     bio: 'Blog made with love for sharing my journey in cloud development and javascript / ruby programming',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '@devcatwannabe',
-      github: '@cloudcatwannabe',
+      facebook: '',
+      telegram: '',
+      twitter: 'devcatwannabe',
+      github: 'cloudcatwannabe',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'linoespinoza',
+      instagram: 'lino.espinoza',
       line: '',
       gitlab: '',
       weibo: '',
