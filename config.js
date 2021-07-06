@@ -3,12 +3,12 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Lino Espinoza',
+  subtitle: 'Blog made with love for sharing my journey in cloud development and javascript / ruby programming',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-201407026-1',
   useKatex: false,
   menu: [
     {
@@ -25,15 +25,15 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Lino Espinoza',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Blog made with love for sharing my journey in cloud development and javascript / ruby programming',
     contacts: {
       email: '',
       facebook: '#',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: '@devcatwannabe',
+      github: '@cloudcatwannabe',
       rss: '',
       vkontakte: '',
       linkedin: '#',
